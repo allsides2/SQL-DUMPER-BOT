@@ -1,0 +1,10 @@
+{
+    "webhook": "SUA_WEEBHOOK_DISCORD",
+    "dump": {
+        "cooldown": 60, 
+        "host": "IP_OU_LOCAL",
+        "user": "root",
+        "password": "",
+        "database": "NOME_DATABASE"
+    }
+}
